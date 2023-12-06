@@ -1,0 +1,15 @@
+.closeBtn {
+  cursor: pointer;
+  border-radius: 10px;
+  padding: 0 10px;
+  opacity: 0;
+  transition: opacity 0.3s ease-in-out;
+  overflow: hidden;
+}
+.closeBtn:hover {
+  height: auto;
+  opacity: 1;
+}
+.strike {
+  text-decoration: line-through;
+}

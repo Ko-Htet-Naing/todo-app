@@ -1,0 +1,11 @@
+.custom-box {
+  width: 500px;
+  height: 50px;
+}
+.custom-font {
+  font-family: "Arial", "Serif";
+  font-weight: bold;
+}
+.custom-width {
+  width: 150px !important;
+}
